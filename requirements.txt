@@ -12,7 +12,6 @@ pynewtonmath
 psutil
 bleach
 markdown2
-speedtest-cli
 wikipedia
 malclient
 coffeehouse
